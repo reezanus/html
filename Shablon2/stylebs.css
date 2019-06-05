@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.nev{
+	background: red;
+	height: 150px;
+	display: flex;
+}
+.box{
+	background-image: url('back.jpg');
+	height: 600px;
+	text-align: center;
+	padding-bottom: 50px;
+}
+.cs{
+	text-align: center;
+	width: 1000px;
+	margin-left: 13%;
+
+}
+h1{
+	color: white;
+	font-size: 50px;
+	font-family: arial;
+}
+p{
+	color: white;
+	font-size: 15px;
+	font-family: arial;
+	margin-top: 5%;
+}
+button{
+	font-family: arial;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: white;
+	background: orange;
+	margin-top: 5%;
+	border-radius: 10px;
+}
